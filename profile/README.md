@@ -4,9 +4,9 @@
 
 ### Infrastructure for autonomous intelligence.
 
-We build the systems that let autonomous intelligence move beyond conversation
+We build the systems that let autonomous intelligence move beyond conversation.
 
-[Website](https://volshi.com) · [Research](https://volshi.com/research) · [Contact](mailto:info@volshi.com)
+[Website](https://volshi.com) · [Research](https://volshi.com/#research) · [Contact](mailto:info@volshi.com)
 
 </div>
 
@@ -20,14 +20,11 @@ Most AI systems are designed around a conversation:
 
 Autonomous systems require considerably more.
 
-They need infrastructure for maintaining context, allocating attention, planning work,
-interacting with real environments, executing tools, evaluating results, preserving
-evidence, learning from outcomes, and governing what they are permitted to do.
+They need infrastructure for maintaining context, allocating attention, planning work, interacting with real environments, executing tools, evaluating results, preserving evidence, learning from outcomes, and governing what they are permitted to do.
 
 VOLSHI develops that infrastructure.
 
-Our work focuses on the systems required between **model intelligence** and
-**real-world action**.
+Our work focuses on the systems required between **model intelligence** and **real-world action**.
 
 ---
 
@@ -54,35 +51,29 @@ These layers are designed around a simple principle:
 
 ### Evidence over assertion
 
-Systems should be able to distinguish what they know, what they inferred, and what
-they cannot establish.
+Systems should be able to distinguish what they know, what they inferred, and what they cannot establish.
 
 ### Execution must be observable
 
-Autonomous work should leave an inspectable record of what was attempted, what
-actually happened, and what resulted.
+Autonomous work should leave an inspectable record of what was attempted, what actually happened, and what resulted.
 
 ### Authority is explicit
 
-The ability to determine an action does not automatically imply permission to
-perform it.
+The ability to determine an action does not automatically imply permission to perform it.
 
 ### Failure is part of the system
 
-Retries, degraded states, partial execution, uncertainty, and failure must be
-represented honestly rather than hidden behind a successful-looking interface.
+Retries, degraded states, partial execution, uncertainty, and failure must be represented honestly rather than hidden behind a successful-looking interface.
 
 ### Humans remain operators
 
-Autonomy should reduce unnecessary supervision without removing meaningful human
-authority.
+Autonomy should reduce unnecessary supervision without removing meaningful human authority.
 
 ---
 
 ## Products
 
-VOLSHI products move from private development to public repositories when their
-interfaces, documentation, and release posture are ready for external use.
+VOLSHI products move from private development to public repositories when their interfaces, documentation, and release posture are ready for external use.
 
 Some repositories may therefore remain private while under active development.
 
@@ -90,9 +81,7 @@ Some repositories may therefore remain private while under active development.
 
 Autonomous software delivery from intent to verified implementation.
 
-ONESHOT is being developed as an execution environment for software agents capable
-of moving through planning, implementation, verification, and delivery as a
-coherent process rather than a sequence of manually supervised prompts.
+ONESHOT is being developed as an execution environment for software agents capable of moving through planning, implementation, verification, and delivery as a coherent process rather than a sequence of manually supervised prompts.
 
 *Currently in private development.*
 
@@ -100,8 +89,7 @@ coherent process rather than a sequence of manually supervised prompts.
 
 ## Research
 
-Our research explores the infrastructure required for autonomous intelligence to
-operate reliably outside the boundaries of a chat interface.
+Our research explores the infrastructure required for autonomous intelligence to operate reliably outside the boundaries of a chat interface.
 
 Areas of active work include:
 
@@ -114,20 +102,15 @@ Areas of active work include:
 - human authorization and governance
 - time-aware intelligent systems
 
-Research and technical material are published as they become ready for external
-review.
-
-[Explore VOLSHI Research](https://volshi.com/research)
+[Explore VOLSHI Research](https://volshi.com/#research)
 
 ---
 
 ## Open source
 
-Public VOLSHI repositories will appear here as components, tools, specifications,
-and reference implementations are prepared for release.
+Public VOLSHI repositories will appear here as components, tools, specifications, and reference implementations are prepared for release.
 
-We treat repository visibility deliberately. A project being absent from this
-organization does not imply that development is inactive.
+We treat repository visibility deliberately. A project being absent from this organization does not imply that development is inactive.
 
 ---
 
@@ -145,9 +128,7 @@ For security-related communication or responsible disclosure, contact:
 
 VOLSHI is building infrastructure for the point where intelligence leaves the chat.
 
-Our objective is not simply to make models produce better answers. It is to develop
-the surrounding systems required for intelligent software to operate in consequential
-environments while remaining observable, governable, and accountable.
+Our objective is not simply to make models produce better answers. It is to develop the surrounding systems required for intelligent software to operate in consequential environments while remaining observable, governable, and accountable.
 
 ---
 
