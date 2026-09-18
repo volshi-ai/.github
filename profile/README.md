@@ -1,5 +1,7 @@
 <div align="center">
-# VOLSHI
+
+  # VOLSHI
+  
 ### Infrastructure for autonomous intelligence.
 
 We build the systems that let autonomous intelligence move beyond conversation 
