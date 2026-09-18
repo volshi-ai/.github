@@ -1,7 +1,11 @@
 <div align="center">
-Infrastructure for autonomous intelligence.
 
-We build the systems that let autonomous intelligence move beyond conversation 
+# VOLSHI
+
+### Infrastructure for autonomous intelligence.
+
+We build the systems that let autonomous intelligence move beyond conversation —
+into environments where it can understand, decide, act, and remain accountable.
 
 [Website](https://volshi.com) · [Research](https://volshi.com/research) · [Contact](mailto:info@volshi.com)
 
