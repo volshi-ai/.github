@@ -2,9 +2,9 @@
 
 # VOLSHI
 
-### Infrastructure for autonomous intelligence.
+### We build the span.
 
-We build the systems that let autonomous intelligence move beyond conversation.
+Between model intelligence and real-world action is everything that makes autonomy trustworthy.
 
 [Website](https://volshi.com) · [Research](https://volshi.com/#research) · [Contact](mailto:info@volshi.com)
 
@@ -12,19 +12,15 @@ We build the systems that let autonomous intelligence move beyond conversation.
 
 ---
 
-## What we build
+## The span
 
-Most AI systems are designed around a conversation:
+A model can reason.
 
-**prompt → response**
+That does not mean it can safely operate in the world.
 
-Autonomous intelligence has to do considerably more.
+Between **model intelligence** and **real-world action** sits a span of systems that must preserve evidence, maintain state across time, allocate attention, learn from experience, authorize consequential actions, observe execution, recover from failure, and account for what happened.
 
-It has to preserve evidence, maintain context across time, learn outside the model, allocate attention, plan work, interact with tools and environments, execute actions, recover from failure, and remain governable while it does it.
-
-VOLSHI builds the infrastructure around that intelligence.
-
-Our work focuses on the systems required between **model intelligence** and **real-world action**.
+**VOLSHI builds that span.**
 
 ---
 
@@ -41,15 +37,15 @@ We approach autonomous intelligence as an infrastructure problem.
 | **Act** | Execute work across software and real environments |
 | **Account** | Preserve provenance, evidence, outcomes, and responsibility |
 
-These layers are designed around a simple principle:
+The model is a component.
 
-> Intelligence that can act needs infrastructure that can explain what happened.
+The span is what makes the system operable.
 
 ---
 
 ## Systems under active development
 
-VOLSHI is building a set of interoperable systems rather than a single monolithic agent.
+VOLSHI is building a set of interoperable systems across that span rather than a single monolithic agent.
 
 ### ERIE
 
@@ -81,9 +77,9 @@ It is focused on append-only temporal history, revisions, late-arriving knowledg
 
 ### ARCHETRON
 
-**The larger autonomous-intelligence architecture**
+**The architecture of the span**
 
-ARCHETRON brings these systems together as infrastructure for intelligence that must sense, understand, decide, authorize, act, and remain accountable across time.
+ARCHETRON is the larger systems architecture beneath VOLSHI's work: the infrastructure that connects sensing, understanding, decision, authorization, action, and accountability around autonomous intelligence.
 
 Some repositories remain private while interfaces, proof systems, and release posture are still being developed.
 
@@ -119,7 +115,7 @@ Autonomy should reduce unnecessary supervision without removing meaningful human
 
 ## Research
 
-Our research explores the infrastructure required for autonomous intelligence to operate reliably outside the boundaries of a chat interface.
+Our research focuses on the systems required to complete the span between intelligence and action.
 
 Areas of active work include:
 
@@ -156,15 +152,15 @@ For security-related communication or responsible disclosure, contact:
 
 ## About VOLSHI
 
-VOLSHI is building infrastructure for the point where intelligence leaves the chat.
+VOLSHI builds the span between model intelligence and real-world action.
 
-The objective is not simply to make models produce better answers. It is to build the surrounding systems required for intelligent software to operate in consequential environments while remaining observable, governable, evidence-aware, and accountable.
+The objective is not simply to make models produce better answers. It is to build the surrounding infrastructure required for intelligent systems to operate in consequential environments while remaining observable, governable, evidence-aware, and accountable.
 
 ---
 
 <div align="center">
 
-**Infrastructure for autonomous intelligence.**
+**We build the span.**
 
 [volshi.com](https://volshi.com) · [info@volshi.com](mailto:info@volshi.com)
 
