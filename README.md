@@ -2,51 +2,83 @@
 
 # VOLSHI
 
-### Infrastructure for autonomous intelligence.
+### Building the span between machine intelligence and human experience.
 
-We build the systems that let autonomous intelligence move beyond conversation 
-
-[Website](https://volshi.com) · [Research](https://volshi.com/research) · [Contact](mailto:info@volshi.com)
+[Website](https://volshi.com) · [Research](https://volshi.com/#research) · [Contact](mailto:info@volshi.com)
 
 </div>
 
 ---
 
-## What we build
+## The span
 
-Most AI systems are designed around a conversation:
+**The model can change. The relationship shouldn’t have to.**
 
-**prompt → response**
+Machine intelligence is becoming more capable and more interchangeable.
 
-Autonomous systems require considerably more.
+Human experience is continuous.
 
-They need infrastructure for maintaining context, allocating attention, planning work,
-interacting with real environments, executing tools, evaluating results, preserving
-evidence, learning from outcomes, and governing what they are permitted to do.
+The infrastructure between them should be too.
 
-VOLSHI develops that infrastructure.
-
-Our work focuses on the systems required between **model intelligence** and
-**real-world action**.
+**VOLSHI builds the span between machine intelligence and human experience.**
 
 ---
 
-## The autonomy stack
+## The systems inside the span
 
-We approach autonomous intelligence as an infrastructure problem.
+Durable capabilities between the model and the human.
 
 | Layer | Responsibility |
 |---|---|
 | **Sense** | Observe environments, systems, tools, and execution |
 | **Understand** | Turn observations and evidence into usable context |
+| **Learn** | Preserve experience and developmental continuity outside the model |
 | **Decide** | Plan, reason, prioritize, and allocate attention |
 | **Authorize** | Determine what actions are permitted before execution |
 | **Act** | Execute work across software and real environments |
 | **Account** | Preserve provenance, evidence, outcomes, and responsibility |
 
-These layers are designed around a simple principle:
+The model is one side of the system.
 
-> Intelligence that can act needs infrastructure that can explain what happened.
+The span is everything required to make the relationship durable, observable, governable, and accountable.
+
+---
+
+## Systems under active development
+
+### ERIE
+
+**Epistemic Retrieval & Intelligence Engine**
+
+ERIE externalizes knowing: evidence, retrieval, provenance, and inspectable conclusions.
+
+### ELLE
+
+**External Learning Loop Engine**
+
+ELLE externalizes learning: developmental continuity, learned rules, unresolved learning, provenance, and ancestry outside replaceable model backends.
+
+### ARCHE
+
+**Attention and consequence infrastructure**
+
+ARCHE allocates cognition according to pressure, consequence, and user cost.
+
+### CHRONOS
+
+**Temporal architecture for intelligent systems**
+
+CHRONOS is built around a strict invariant:
+
+> **The recorded past cannot change. What the system knows about the past can.**
+
+Its work centers on append-only temporal history, revisions, late-arriving knowledge, historical reconstruction, and time-aware retrieval.
+
+### ARCHETRON
+
+**The architecture of the span**
+
+ARCHETRON is the systems architecture beneath VOLSHI's work, connecting the capabilities required for intelligence to move through understanding, learning, authorization, action, and accountability.
 
 ---
 
@@ -54,80 +86,52 @@ These layers are designed around a simple principle:
 
 ### Evidence over assertion
 
-Systems should be able to distinguish what they know, what they inferred, and what
-they cannot establish.
+Systems should distinguish what they know, what they inferred, and what they cannot establish.
 
 ### Execution must be observable
 
-Autonomous work should leave an inspectable record of what was attempted, what
-actually happened, and what resulted.
+Autonomous work should leave an inspectable record of what was attempted, what actually happened, and what resulted.
 
 ### Authority is explicit
 
-The ability to determine an action does not automatically imply permission to
-perform it.
+The ability to determine an action does not automatically imply permission to perform it.
+
+### History is preserved
+
+Corrections and later knowledge should not silently rewrite the record that produced them.
 
 ### Failure is part of the system
 
-Retries, degraded states, partial execution, uncertainty, and failure must be
-represented honestly rather than hidden behind a successful-looking interface.
+Retries, degraded states, partial execution, uncertainty, and failure must be represented honestly.
 
 ### Humans remain operators
 
-Autonomy should reduce unnecessary supervision without removing meaningful human
-authority.
-
----
-
-## Products
-
-VOLSHI products move from private development to public repositories when their
-interfaces, documentation, and release posture are ready for external use.
-
-Some repositories may therefore remain private while under active development.
-
-### ONESHOT
-
-Autonomous software delivery from intent to verified implementation.
-
-ONESHOT is being developed as an execution environment for software agents capable
-of moving through planning, implementation, verification, and delivery as a
-coherent process rather than a sequence of manually supervised prompts.
-
-*Currently in private development.*
+Autonomy should reduce unnecessary supervision without removing meaningful human authority.
 
 ---
 
 ## Research
 
-Our research explores the infrastructure required for autonomous intelligence to
-operate reliably outside the boundaries of a chat interface.
-
-Areas of active work include:
+VOLSHI research focuses on the systems inside the span:
 
 - epistemic retrieval and evidence
-- autonomous execution
-- external learning and memory
+- temporal memory and retrieval
+- external learning and developmental continuity
 - attention and consequence
+- autonomous execution
 - execution observability
 - provenance and accountability
 - human authorization and governance
-- time-aware intelligent systems
 
-Research and technical material are published as they become ready for external
-review.
-
-[Explore VOLSHI Research](https://volshi.com/research)
+[Explore VOLSHI Research](https://volshi.com/#research)
 
 ---
 
 ## Open source
 
-Public VOLSHI repositories will appear here as components, tools, specifications,
-and reference implementations are prepared for release.
+Public VOLSHI repositories appear here as components, tools, specifications, and reference implementations are prepared for release.
 
-We treat repository visibility deliberately. A project being absent from this
-organization does not imply that development is inactive.
+Repository visibility is deliberate. A system being private or absent from this organization does not imply that development is inactive.
 
 ---
 
@@ -135,26 +139,16 @@ organization does not imply that development is inactive.
 
 Security issues should not be disclosed through public GitHub issues.
 
-For security-related communication or responsible disclosure, contact:
-
-**info@volshi.com**
-
----
-
-## About VOLSHI
-
-VOLSHI is building infrastructure for the point where intelligence leaves the chat.
-
-Our objective is not simply to make models produce better answers. It is to develop
-the surrounding systems required for intelligent software to operate in consequential
-environments while remaining observable, governable, and accountable.
+For responsible disclosure, contact **info@volshi.com**.
 
 ---
 
 <div align="center">
 
-**Infrastructure for autonomous intelligence.**
+**Intelligence is only one side of the system.**
 
-[volshi.com](https://volshi.com) · [info@volshi.com](mailto:info@volshi.com)
+**Build the span with us.**
+
+[volshi.com](https://volshi.com)
 
 </div>
