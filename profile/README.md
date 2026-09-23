@@ -115,7 +115,7 @@ Autonomy should reduce unnecessary supervision without removing meaningful human
 
 ## Research
 
-Our research focuses on the systems required to complete the span between intelligence and action.
+Our research focuses on the systems required to complete the span between machine intelligence and human experience.
 
 Areas of active work include:
 
