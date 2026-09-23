@@ -2,9 +2,7 @@
 
 # VOLSHI
 
-### We build the span.
-
-Between model intelligence and real-world action is everything that makes autonomy trustworthy.
+### Building the span between machine intelligence and human experience.
 
 [Website](https://volshi.com) · [Research](https://volshi.com/#research) · [Contact](mailto:info@volshi.com)
 
@@ -14,74 +12,73 @@ Between model intelligence and real-world action is everything that makes autono
 
 ## The span
 
-A model can reason.
+**The model can change. The relationship shouldn’t have to.**
 
-That does not mean it can safely operate in the world.
+Machine intelligence is becoming more capable and more interchangeable.
 
-Between **machine intelligence** and **human experience** sits a span of systems that must preserve evidence, maintain state across time, allocate attention, learn from experience, authorize consequential actions, observe execution, recover from failure, and account for what happened.
+Human experience is continuous.
+
+The infrastructure between them should be too.
 
 **VOLSHI builds the span between machine intelligence and human experience.**
 
 ---
 
-## The autonomy stack
+## The systems inside the span
 
-We approach autonomous intelligence as an infrastructure problem.
+Durable capabilities between the model and the human.
 
 | Layer | Responsibility |
 |---|---|
 | **Sense** | Observe environments, systems, tools, and execution |
 | **Understand** | Turn observations and evidence into usable context |
+| **Learn** | Preserve experience and developmental continuity outside the model |
 | **Decide** | Plan, reason, prioritize, and allocate attention |
 | **Authorize** | Determine what actions are permitted before execution |
 | **Act** | Execute work across software and real environments |
 | **Account** | Preserve provenance, evidence, outcomes, and responsibility |
 
-The model is a component.
+The model is one side of the system.
 
-The span is what makes the system operable.
+The span is everything required to make the relationship durable, observable, governable, and accountable.
 
 ---
 
 ## Systems under active development
 
-VOLSHI is building a set of interoperable systems across that span rather than a single monolithic agent.
-
 ### ERIE
 
 **Epistemic Retrieval & Intelligence Engine**
 
-ERIE externalizes knowing. It retrieves evidence, preserves provenance, and produces conclusions whose support can be inspected rather than merely asserted.
+ERIE externalizes knowing: evidence, retrieval, provenance, and inspectable conclusions.
 
 ### ELLE
 
 **External Learning Loop Engine**
 
-ELLE externalizes learning. It preserves developmental continuity outside replaceable model backends and turns experience into durable, scoped learning.
+ELLE externalizes learning: developmental continuity, learned rules, unresolved learning, provenance, and ancestry outside replaceable model backends.
 
 ### ARCHE
 
 **Attention and consequence infrastructure**
 
-ARCHE allocates cognition according to pressure, consequence, and user cost, helping autonomous systems decide what deserves attention and when.
+ARCHE allocates cognition according to pressure, consequence, and user cost.
 
 ### CHRONOS
 
 **Temporal architecture for intelligent systems**
 
-CHRONOS is being built around a strict temporal invariant:
+CHRONOS is built around a strict invariant:
 
 > **The recorded past cannot change. What the system knows about the past can.**
 
-It is focused on append-only temporal history, revisions, late-arriving knowledge, historical reconstruction, and time-aware retrieval.
+Its work centers on append-only temporal history, revisions, late-arriving knowledge, historical reconstruction, and time-aware retrieval.
 
 ### ARCHETRON
 
 **The architecture of the span**
 
-ARCHETRON is the larger systems architecture beneath VOLSHI's work: the infrastructure that connects sensing, understanding, decision, authorization, action, and accountability around autonomous intelligence.
-
-Some repositories remain private while interfaces, proof systems, and release posture are still being developed.
+ARCHETRON is the systems architecture beneath VOLSHI's work, connecting the capabilities required for intelligence to move through understanding, learning, authorization, action, and accountability.
 
 ---
 
@@ -105,7 +102,7 @@ Corrections and later knowledge should not silently rewrite the record that prod
 
 ### Failure is part of the system
 
-Retries, degraded states, partial execution, uncertainty, and failure must be represented honestly rather than hidden behind a successful-looking interface.
+Retries, degraded states, partial execution, uncertainty, and failure must be represented honestly.
 
 ### Humans remain operators
 
@@ -115,9 +112,7 @@ Autonomy should reduce unnecessary supervision without removing meaningful human
 
 ## Research
 
-Our research focuses on the systems required to complete the span between machine intelligence and human experience.
-
-Areas of active work include:
+VOLSHI research focuses on the systems inside the span:
 
 - epistemic retrieval and evidence
 - temporal memory and retrieval
@@ -134,7 +129,7 @@ Areas of active work include:
 
 ## Open source
 
-Public VOLSHI repositories will appear here as components, tools, specifications, and reference implementations are prepared for release.
+Public VOLSHI repositories appear here as components, tools, specifications, and reference implementations are prepared for release.
 
 Repository visibility is deliberate. A system being private or absent from this organization does not imply that development is inactive.
 
@@ -144,24 +139,16 @@ Repository visibility is deliberate. A system being private or absent from this 
 
 Security issues should not be disclosed through public GitHub issues.
 
-For security-related communication or responsible disclosure, contact:
-
-**info@volshi.com**
-
----
-
-## About VOLSHI
-
-VOLSHI builds the span between machine intelligence and human experience.
-
-The objective is not simply to make models produce better answers. It is to build the surrounding infrastructure required for intelligent systems to operate in consequential environments while remaining observable, governable, evidence-aware, and accountable.
+For responsible disclosure, contact **info@volshi.com**.
 
 ---
 
 <div align="center">
 
-**Building the span between machine intelligence and human experience.**
+**Intelligence is only one side of the system.**
 
-[volshi.com](https://volshi.com) · [info@volshi.com](mailto:info@volshi.com)
+**Build the span with us.**
+
+[volshi.com](https://volshi.com)
 
 </div>
