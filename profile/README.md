@@ -18,9 +18,9 @@ A model can reason.
 
 That does not mean it can safely operate in the world.
 
-Between **model intelligence** and **real-world action** sits a span of systems that must preserve evidence, maintain state across time, allocate attention, learn from experience, authorize consequential actions, observe execution, recover from failure, and account for what happened.
+Between **machine intelligence** and **human experience** sits a span of systems that must preserve evidence, maintain state across time, allocate attention, learn from experience, authorize consequential actions, observe execution, recover from failure, and account for what happened.
 
-**VOLSHI builds that span.**
+**VOLSHI builds the span between machine intelligence and human experience.**
 
 ---
 
@@ -152,7 +152,7 @@ For security-related communication or responsible disclosure, contact:
 
 ## About VOLSHI
 
-VOLSHI builds the span between model intelligence and real-world action.
+VOLSHI builds the span between machine intelligence and human experience.
 
 The objective is not simply to make models produce better answers. It is to build the surrounding infrastructure required for intelligent systems to operate in consequential environments while remaining observable, governable, evidence-aware, and accountable.
 
@@ -160,7 +160,7 @@ The objective is not simply to make models produce better answers. It is to buil
 
 <div align="center">
 
-**We build the span.**
+**Building the span between machine intelligence and human experience.**
 
 [volshi.com](https://volshi.com) · [info@volshi.com](mailto:info@volshi.com)
 
